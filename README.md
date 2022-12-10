@@ -3,6 +3,6 @@ Um filtro de pesquisa utilizando javascript para Cards de notas aplicando alguns
 
 Tecnologias utilizadas:
 
-HTML
-CSS
-JAVASCRIPT
+💠HTML
+💠CSS
+💠JAVASCRIPT
